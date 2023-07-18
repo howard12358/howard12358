@@ -5,6 +5,8 @@
 
 ![](https://raw.githubusercontent.com/weedsx/weedsx/output/github-contribution-grid-snake.svg)
 
+![](https://raw.githubusercontent.com/weedsx/weedsx/main/assets/github-contribution-grid-snake.svg)
+
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=weedsx&theme=vue)
 

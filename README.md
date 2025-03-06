@@ -19,7 +19,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" /> </a>

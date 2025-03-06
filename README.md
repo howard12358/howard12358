@@ -15,9 +15,11 @@
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" /> </a>
@@ -33,7 +35,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/webstorm.svg" /> </a>
-  
 </p>
 
 <!--

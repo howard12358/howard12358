@@ -2,16 +2,16 @@
 
 <h3 align="left">Technology stack:</h3>
 <p align="left"> 
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> </a> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> </a> 
   <a href="https://golang.google.cn" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /> </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" /> </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" /> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" /> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" /> </a>

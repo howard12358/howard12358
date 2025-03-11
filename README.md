@@ -29,7 +29,7 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a>
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" /> </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" /> </a>
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" /> </a>
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" /> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> </a>
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img width="45px" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" /> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg" /> </a>

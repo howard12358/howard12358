@@ -1,3 +1,27 @@
+### Hi there! I am [@howard12358](https://github.com/howard12358). 👋
+
+**About me**
+
+- 💼 BackEnd Engineer
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=howard12358&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howard12358&layout=compact&theme=tokyonight" />
+  </a>
+  <!--
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SheltonZhu&theme=dark" align="center" />
+  -->
+</p>
+
+<hr>
+
+![skills](https://skillicons.dev/icons?i=go,java,mysql,postgres,redis,elasticsearch,spring,rabbitmq,kafka,jenkins,js,html,css,vue,react,git,nginx,docker,k8s,linux,md,vim,bash,idea,webstorm,github)
+
+<!--
 <h2 align="center">Hey, folks! 👋</h2>
 
 <h3 align="left">Technology stack:</h3>
@@ -36,32 +60,5 @@
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/webstorm.svg" /> </a>
 </p>
 
-<!--
-<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=weedsx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs?username=weedsx&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
--->
-
-<!--
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=weedsx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />&nbsp;<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weedsx&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
--->
-
 <img align="" width="39%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howard12358&hide=html&hide_title=true&hide_border=true&layout=compact&text_color=959598&bg_color=9ca3af00" /><img align="" width="61%" height="165" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=howard12358&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedsx&hide=html&hide_title=true&hide_border=true)&nbsp;&nbsp;&nbsp;
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=weedsx&show_icons=true&count_private=true&line_height=40&hide_title=true&hide_border=true)
--->
-
-<!--
-**weedsx/weedsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
